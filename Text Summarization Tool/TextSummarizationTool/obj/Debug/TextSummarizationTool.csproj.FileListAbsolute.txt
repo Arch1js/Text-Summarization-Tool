@@ -1,0 +1,85 @@
+C:\Users\Arturs\Desktop\Application Programming\TextSummarizationTool\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationTool\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationTool\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationTool\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationTool\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationTool\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationTool\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+G:\Year 3 sem1\AI\TextSummarizationTool\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+G:\Year 3 sem1\AI\TextSummarizationTool\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+G:\Year 3 sem1\AI\TextSummarizationTool\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+G:\Year 3 sem1\AI\TextSummarizationTool\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+G:\Year 3 sem1\AI\TextSummarizationTool\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+G:\Year 3 sem1\AI\TextSummarizationTool\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV2\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV3\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV3\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV3\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV3\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV3\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV3\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV4\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV4\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV4\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV4\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV4\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV4\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV5\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV5\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV5\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV5\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV5\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV5\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV5.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV5.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV5.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV5.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV5.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV5.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\adobr\Desktop\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+F:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+F:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+F:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+F:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+F:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+F:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+G:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+G:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+G:\Year 3 sem1\AI\TextSummarizationToolV6.1\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.2\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.2\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.2\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.2\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.2\TextSummarizationTool\bin\Debug\TextSummarizationTool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.2\TextSummarizationTool\obj\Debug\TextSummarizationTool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\bin\Debug\TextSummarizationTool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\TextSummarizationTool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\TextSummarizationTool.pdb

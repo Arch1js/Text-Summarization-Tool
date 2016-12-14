@@ -1,0 +1,35 @@
+Just as many residential households have installed their own home networks, corporations and other types of businesses also utilize computer networks in their daily operations! Both residential and business networks run using many of the same underlying technologies. However, business networks (particularly those in larger corporations) incorporate additional features and usages.
+Business Network Design
+
+Small office and home office (SOHO) networks normally function with either one or two local area networks (LANs), each controlled by its own network router.
+
+These match typical home network designs.
+
+As businesses grow, their network layouts expand to increasingly larger numbers of LANs. Corporations based in more than one location set up internal connectivity between their office buildings, called a campus network when the buildings are in close proximity and a wide area network (WAN) when spanning across cities or countries.
+
+Companies are increasingly enabling their local networks for Wi-Fi wireless access, although larger businesses also tend to wire their office buildings with high-speed Ethernet cabling for greater network capacity and performance.
+Business Networks and the Internet
+
+Most companies enable their employees to access the Internet from inside the business network. Some install Internet content filtering technology to block access to certain Web sites or domains. These filtering systems use a configurable database of Internet domain names (such as pornographic or gambling Web sites), addresses and content keywords deemed to violate the company acceptable use policy.
+
+Some home network routers also support Internet content filtering features through their administration screens, but corporations tend to utilize more powerful and expensive third-party software solutions.
+
+Businesses sometimes also enable employees to log into the company network from their homes or other external locations, a capability called remote access.
+
+A business can set up virtual private network (VPN) servers to support remote access, with employees' computers configured to use matching VPN client software and security settings.
+
+Compared to home networks, business networks send out (upload) a much higher volume of data across the Internet resulting from transactions on company Web sites, email, and other data published externally. Residential Internet service plans normally supply their customers a significantly higher data rate for downloads in return for a lower rate on uploads, but business Internet plans allow higher upload rates for this reason.
+Intranets and Extranets
+
+Companies can set up internal Web servers to share private business information with employees. They may also put in place internal email, instant messaging (IM) and other private communication systems. Together these systems make a business intranet. Unlike Internet email, IM and Web services that are publicly available, intranet services can only be accessed by employees logged in to the network.
+
+Advanced business networks also allow sharing certain controlled data between companies. Sometimes called extranets or business-to-business (B2B) networks, these communication systems involve remote access methods and/or log-in protected Web sites.
+Business Network Security
+
+Companies possess valuable private data making network security a priority. Security-conscious businesses usually take additional measures to protect their networks beyond what people do for their home networks.
+
+To prevent unauthorized devices from joining a business network, companies employ centralized sign-on security systems. These require users to authenticate by entering passwords that are checked against a network directory, and they also can check a device's hardware and software configuration to verify it is authorized to join to network.
+
+Company employees are notorious for making incredibly bad choices in their use of passwords, easily hacked names like "password1" and "welcome." To help protect the business network, company IT administrators set up password rules that any device joining it must follow. They also usually set the network passwords of their employees to expire periodically, forcing them to be changed, which is also intended to improve security. Finally, administrators sometimes also set up guest networks for visitors to use. Guest networks give visitors access to the Internet and some basic company information without allowing connections to critical company servers or other protected data.
+
+Businesses utilize additional systems to improve their data security. Network backup systems regularly capture and archive critical business data from company devices and servers. Some companies require employees to set up VPN connections when using internal Wi-Fi networks, to guard against data being snooped over the air.

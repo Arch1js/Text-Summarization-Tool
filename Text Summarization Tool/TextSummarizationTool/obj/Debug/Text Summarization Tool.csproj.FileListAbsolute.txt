@@ -1,0 +1,18 @@
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\bin\Debug\Text Summarization Tool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\bin\Debug\Text Summarization Tool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\bin\Debug\Text Summarization Tool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\Text Summarization Tool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\Text Summarization Tool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\Text Summarization Tool.pdb
+F:\Year 3 sem1\AI\TextSummarizationToolV6.3\TextSummarizationTool\bin\Debug\Text Summarization Tool.exe.config
+F:\Year 3 sem1\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\Text Summarization Tool.exe
+F:\Year 3 sem1\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\Text Summarization Tool.pdb
+F:\Year 3 sem1\AI\TextSummarizationToolV6.3\TextSummarizationTool\bin\Debug\Text Summarization Tool.exe
+F:\Year 3 sem1\AI\TextSummarizationToolV6.3\TextSummarizationTool\bin\Debug\Text Summarization Tool.pdb
+F:\Year 3 sem1\AI\TextSummarizationToolV6.3\TextSummarizationTool\obj\Debug\Text Summarization Tool.csprojResolveAssemblyReference.cache
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.4\TextSummarizationTool\bin\Debug\Text Summarization Tool.exe.config
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.4\TextSummarizationTool\obj\Debug\Text Summarization Tool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.4\TextSummarizationTool\obj\Debug\Text Summarization Tool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.4\TextSummarizationTool\bin\Debug\Text Summarization Tool.exe
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.4\TextSummarizationTool\bin\Debug\Text Summarization Tool.pdb
+C:\Users\Arturs\Desktop\AI\TextSummarizationToolV6.4\TextSummarizationTool\obj\Debug\Text Summarization Tool.csprojResolveAssemblyReference.cache
